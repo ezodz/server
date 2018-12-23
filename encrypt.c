@@ -9,7 +9,7 @@
 #define PRIKEY "keys/private_key.pem"
 #define PUBKEY "keys/public_key.pem"
 
-#define N 256
+
 
 
 //return length
